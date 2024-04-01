@@ -33,7 +33,7 @@ background-color: lightgray;
   background-color: #f9f9f9;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   cursor: pointer; 
-
+  overflow: hidden;
 }
 
 .notes-header{
